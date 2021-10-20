@@ -44,6 +44,7 @@ public class Array_test {
 		}
 	}
 	
+	
 	@Test
 	public void deletion_test()
 	{
